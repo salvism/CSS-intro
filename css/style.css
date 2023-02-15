@@ -1,0 +1,14 @@
+h1{
+    background-color: dimgray;
+    color: azure;
+    text-align: center;
+}
+.name{
+    color: dimgray;
+}
+p{
+    color: dimgray;
+}
+a{
+    color: red;
+}
